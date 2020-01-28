@@ -3,11 +3,11 @@ var client = new discord.Client();
 var request = require('request');
 var lastSent = new Date();
 
-client.login("fiercedeityninja420@gmail.com", "B2q9h3iq");
+client.login("", "");
 client.on('message', function(message){
 	
 var messageText = message.content;	
-var key = "AIzaSyCAQoqEnJUM-FEWgni5Nwv_0gK9zAZF4YY";
+var key = "";
 
 
     if(messageText.startsWith("!youtube ")){

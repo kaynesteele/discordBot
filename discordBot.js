@@ -90,22 +90,3 @@ client.on('raw', function(user){
    }
 });
 
-dict = {
-"99374238514806784": "Ryan",
-"100271695167758336": "ImpaledLegacy",
-"100346956856971264": "ImpaledLuck",
-"100422679521140736": "FierceDeityNinja",
-"120246728258617345": "BrossKnuckles",
-"120614315987304449": "Dickman9000",
-"123140881330077699": "Fucking Memes",
-"126459748521345024": "CompoundList",
-"129034374002900992": "Drugswithhugs",
-"131819976414855168": "Zeke1498",
-"131825624326078464": "BootyTwang",
-"132573058773942272": "Politicaltoe1",
-"133407850616717313": "Crawf0rd",
-"134891984203546624": "PoppityPlopJr",
-"135092670962991104": "ObeseNoLife",
-"199947744222248960": "fiercedeitybot"
-};
-
